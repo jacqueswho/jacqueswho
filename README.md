@@ -1,6 +1,6 @@
 ### Hi, I am Jacques Nel
 
-My name is Jacques Nel and I'm a software developer/engineer. I'm from South Africa, living in Cape Town and currently working at [Trixta](https://www.trixta.com/). You can find me on [linkedin](https://www.linkedin.com/in/jacques-nel-5b643020/).
+I'm a fullstack software developer/engineer. I'm from South Africa, living in Cape Town and currently working at [Trixta](https://www.trixta.com/). You can find me on [linkedin](https://www.linkedin.com/in/jacques-nel-5b643020/).
 
 ## 🔧 Technologies & Tools
 ### Editors
