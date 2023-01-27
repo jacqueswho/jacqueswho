@@ -1,4 +1,5 @@
-### Hi, I am Jacques Nel
+# 👊 Jacques Nel
+**`Digital Craftsman (Developer / Gamer / Tabletop gamer)`**
 
 I'm a fullstack software developer/engineer. I'm from South Africa, living in Cape Town and currently working at [Trixta](https://www.trixta.com/). You can find me on [linkedin](https://www.linkedin.com/in/jacques-nel-5b643020/).
 
@@ -14,7 +15,6 @@ I'm a fullstack software developer/engineer. I'm from South Africa, living in Ca
 ![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=white&color=21759B)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
