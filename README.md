@@ -7,6 +7,7 @@ I'm a fullstack software developer/engineer. I'm from South Africa, living in Ca
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Visual_studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Visual_studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Android_studio-informational?style=for-the-badge&logo=android-studio&logoColor=white&color=green)
 
 ### CMS
 ![](https://img.shields.io/badge/Umbraco-informational?style=for-the-badge&logo=Umbraco&logoColor=white&color=00BEC1)
