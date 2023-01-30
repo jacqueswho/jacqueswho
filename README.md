@@ -1,5 +1,5 @@
 # 👊 Jacques Nel
-**`Digital Craftsman (Developer / Gamer / Tabletop gamer)`**
+**`Digital Architect (Developer / Gamer / Tabletop gamer)`**
 
 I'm a fullstack software developer/engineer. I'm from South Africa, living in Cape Town and currently working at [Trixta](https://www.trixta.com/). You can find me on [linkedin](https://www.linkedin.com/in/jacques-nel-5b643020/).
 
